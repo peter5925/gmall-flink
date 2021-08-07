@@ -11,6 +11,7 @@
         <module name="gmall-logger" />
         <module name="gmall-flink-cdc" />
         <module name="gmall-test" />
+        <module name="gmall-publisher" />
         <module name="gmall-publisher1" />
       </profile>
     </annotationProcessing>
